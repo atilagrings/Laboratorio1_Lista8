@@ -69,6 +69,7 @@ public class Array{
     }
     
     public static int[] getArraySoma (int a[], int b[]){ //retorna o array soma
+        // AINDA EM DESENVOLVIMENTO
         int maxA = a.lenght;
         int maxB = b.lenght;
         int maior=0;
